@@ -1,4 +1,4 @@
-### Olá! Eu sou a Aline 👋
+### Hello! I am Aline 👋
 
 - 🔭 Atualmente trabalho com manipulação e modelagem de dados do varejo de supermercados.
 - 👯 Tenho interesse em ajudar os interessados em manipulação de dados com exemplos práticos com base de dados. 
@@ -11,6 +11,8 @@
   
  
  <div style="display: inline_block"><br>
+   
+  **Some technologies I use:** 
  
   <img align="center" alt="Aline-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
