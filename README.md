@@ -1,6 +1,6 @@
 ### Hello! I am Aline 👋
 
-- 🔭 Atualmente trabalho com manipulação e modelagem de dados do varejo de supermercados.
+- 🔭 Atualmente trabalho na Suno United Creators, empresa de mídia digital, onde sou responsável por analisar e modelar dados dos clientes.
 - 👯 Tenho interesse em ajudar os interessados em manipulação de dados com exemplos práticos com base de dados. 
 
 <div align="center">
